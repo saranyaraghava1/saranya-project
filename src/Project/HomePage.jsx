@@ -32,10 +32,10 @@ const HomePage = () => {
         <br></br>
         &emsp;&emsp; &emsp;
         <Button
+          style={{ backgroundColor: "deeppink" }}
           className="find-freelance-button "
           onClick={() => navigate("Findfreelancer")}
           variant="contained"
-          color="primary"
           type="submit"
         >
           Find Freelancers
