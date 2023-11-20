@@ -22,13 +22,13 @@ color: white;
     height:fit-content;
   }
   .HomePage{
-    background-image: url('C:\Users\welcome\Downloads\WhatsApp Image 2023-11-20 at 15.46.46_636be51e.jpg');
+    background-image: url('c:\Users\welcome\Pictures\Camera Roll\cropcut.jpg');
     background-size: cover;
     
 }
 .front{
   text-align: left;
-  margin-left:-50px;
+  margin-left:-150px;
   text-decoration: wavy;
   text-shadow: 2px;
   font-family: cursive;
@@ -45,7 +45,7 @@ color: white;
 }
 .front-down{
   color:white;
-  padding-left: 180px;
+  padding-left: 50px;
   text-align: left; 
 }
 .find-freelance-button{
@@ -55,7 +55,7 @@ color: white;
   color:white;
   font-style: oblique;
   font-size: 20px;
-  margin-right: 960px;
+  margin-left:  50px;
 }
 
 .bottom-padding{

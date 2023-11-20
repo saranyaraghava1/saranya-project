@@ -30,7 +30,7 @@ const HomePage = () => {
       </div>
       <div>
         <br></br>
-        &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp;
+        &emsp;&emsp; &emsp;
         <Button
           className="find-freelance-button "
           onClick={() => navigate("Findfreelancer")}
