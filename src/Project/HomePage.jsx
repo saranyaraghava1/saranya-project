@@ -8,6 +8,7 @@ const HomePage = () => {
   const navigate = useNavigate();
   return (
     <div className="HomePage">
+      <br></br>
       <div>
         <center>
           <h1 style={{ color: "white" }}>Welcome to Freelance finder</h1>
@@ -109,6 +110,7 @@ const HomePage = () => {
           Freelancer.com has by far the largest pool of quality freelancers
           globally- over 70 million to choose from{" "}
         </p>
+        <br></br>
       </div>
     </div>
   );

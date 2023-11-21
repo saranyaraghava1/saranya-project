@@ -55,7 +55,6 @@ const Find = () => {
               <p>Projects Done: 15</p>
               <p>email: Stephen12@gmail.com</p>
               <p>Contact:998367718</p>
-              {/* Add more content as needed */}
             </div>
           </div>
         )}
@@ -74,7 +73,6 @@ const Find = () => {
               <p>Projects Done: 5</p>
               <p>email: Sowmiya12@gmail.com</p>
               <p>Contact:798367718</p>
-              {/* Add more content as needed */}
             </div>
           </div>
         )}
@@ -119,7 +117,6 @@ const Find = () => {
               <p>Projects Done: 3</p>
               <p>email: Fathima12@gmail.com</p>
               <p>Contact:678367718</p>
-              {/* Add more content as needed */}
             </div>
           </div>
         )}
@@ -146,7 +143,6 @@ const Find = () => {
               <p>Projects Done: 10</p>
               <p>email:Sitaartworks12@gmail.com</p>
               <p>Contact:988366718</p>
-              {/* Add more content as needed */}
             </div>
           </div>
         )}
@@ -165,7 +161,6 @@ const Find = () => {
               <p>Projects Done: 2</p>
               <p>email:Abdul12@gmail.com</p>
               <p>Contact:698367718</p>
-              {/* Add more content as needed */}
             </div>
           </div>
         )}
@@ -192,7 +187,6 @@ const Find = () => {
               <p>Projects Done: 14</p>
               <p>email: Harish12@gmail.com</p>
               <p>Contact: 879967718</p>
-              {/* Add more content as needed */}
             </div>
           </div>
         )}
@@ -237,7 +231,6 @@ const Find = () => {
               <p>Projects Done:5 </p>
               <p>email: Ram12@gmail.com</p>
               <p>Contact:998367718</p>
-              {/* Add more content as needed */}
             </div>
           </div>
         )}

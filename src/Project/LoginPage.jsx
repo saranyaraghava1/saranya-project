@@ -32,6 +32,7 @@ const LoginPage = () => {
         backgroundSize: "cover",
       }}
     >
+      <br></br>
       <Paper
         elevation={3}
         style={{ padding: 60, maxWidth: 400, margin: "auto", marginTop: 50 }}
@@ -91,6 +92,9 @@ const LoginPage = () => {
           </center>
         </div>
       </Paper>
+      <div>
+        <br></br>
+      </div>
     </div>
   );
 };

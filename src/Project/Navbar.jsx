@@ -33,6 +33,9 @@ function Navbar() {
     <div>
       <AppBar position="static" sx={{ backgroundColor: "#4B0082" }}>
         <Toolbar sx={{ justifyContent: "flex-end" }}>
+          <h3 style={{ fontStyle: "revert-layer", fontSize: "25px" }}>
+            SkillSynC💤
+          </h3>
           <Button
             onClick={() => navigate("/")}
             variant="text"
@@ -63,7 +66,7 @@ function Navbar() {
             onClick={() => navigate("about")}
             variant="text"
             type="submit"
-            style={{ color: "white", marginRight: "550px" }}
+            style={{ color: "white", marginRight: "440px" }}
           >
             About
           </Button>
