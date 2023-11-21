@@ -23,7 +23,6 @@ import reportWebVitals from './reportWebVitals';
 //import { RouterProvider } from 'react-router-dom';
 //import router from './Routes';
 import { BrowserRouter } from 'react-router-dom';
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
  <BrowserRouter>

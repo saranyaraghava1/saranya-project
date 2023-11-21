@@ -63,7 +63,7 @@ function Navbar() {
             onClick={() => navigate("about")}
             variant="text"
             type="submit"
-            style={{ color: "white", marginRight: "650px" }}
+            style={{ color: "white", marginRight: "550px" }}
           >
             About
           </Button>

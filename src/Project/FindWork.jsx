@@ -1,27 +1,19 @@
 import React, { useState } from "react";
 import "./Find.css";
-
 const Find = () => {
   const [showDetails, setShowDetails] = useState(false);
-
   const handleButtonClick = () => {
     setShowDetails(!showDetails);
   };
-
   const [showDetails1, setShowDetails1] = useState(false);
-
   const handleButtonClick1 = () => {
     setShowDetails1(!showDetails1);
   };
-
   const [showDetails2, setShowDetails2] = useState(false);
-
   const handleButtonClick2 = () => {
     setShowDetails2(!showDetails2);
   };
-
   const [showDetails3, setShowDetails3] = useState(false);
-
   const handleButtonClick3 = () => {
     setShowDetails3(!showDetails3);
   };
