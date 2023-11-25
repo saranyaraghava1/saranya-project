@@ -271,8 +271,8 @@ const FindWork = () => {
   const navigate = useNavigate();
 
   const buttonStyle = {
-    height: "500px",
-    width: "700px",
+    height: "380px",
+    width: "570px",
     backgroundRepeat: "no-repeat",
     backgroundSize: "cover",
     transition:
