@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "jaimii add",
+      "email": "jaimii@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "jamii",
+      "email": "jamil@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "salim",
+      "email": "salim@gmail.com"
+    },
+    {
+      "name": "sanju",
+      "email": "727722euit163@gmail.com",
+      "password": "sanju",
+      "id": 4
+    },
+    {
+      "name": "Saranya",
+      "email": "SaranyaRaghav@gmail.com",
+      "password": "saran",
+      "id": 5
+    },
+    {
+      "name": "sneha",
+      "email": "sneha@gmail.com",
+      "password": "sneha1",
+      "id": 6
+    },
+    {
+      "name": "siva",
+      "email": "siva@gmail.com",
+      "password": "siva@123",
+      "id": 7
+    }
+  ]
+}

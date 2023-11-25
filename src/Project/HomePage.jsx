@@ -1,4 +1,4 @@
-// import { Backdrop } from '@mui/material';
+//import { Backdrop } from '@mui/material';
 import "./Home.css";
 import React from "react";
 import { Button } from "@mui/material";
@@ -8,8 +8,8 @@ const HomePage = () => {
   const navigate = useNavigate();
   return (
     <div className="HomePage">
-      <br></br>
       <div>
+        <br></br>
         <center>
           <h1 style={{ color: "white" }}>Welcome to Freelance finder</h1>
           <h2 style={{ color: "white" }}>
@@ -31,13 +31,18 @@ const HomePage = () => {
       </div>
       <div>
         <br></br>
-        &emsp;&emsp; &emsp;
+        &emsp;&emsp; &emsp;&emsp; &emsp;&emsp; &emsp;&emsp;
         <Button
-          style={{ backgroundColor: "deeppink" }}
-          className="find-freelance-button "
+          className="find-freelance "
           onClick={() => navigate("Findfreelancer")}
           variant="contained"
           type="submit"
+          style={{
+            backgroundColor: "deeppink",
+            width: "200px",
+            height: "50px",
+            fontFamily: "initial",
+          }}
         >
           Find Freelancers
         </Button>

@@ -1,4 +1,4 @@
-.image{
+/*.image{
     height:600px;
     width: 1000px;
 }
@@ -22,7 +22,7 @@ color: white;
     height:fit-content;
   }
   .HomePage{
-    background-image: url('C:\Users\welcome\Pictures\Camera Roll\cropcut.jpg');
+    background-image: url('C:\Users\welcome\Downloads\backgroundimage.jpg');
     background-size: cover;
     
 }
@@ -65,5 +65,75 @@ color: white;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+
+}
+*/
+.image{
+  height:600px;
+  width: 1000px;
+}
+.paragraph{
+  text-align: left;
+  margin-left:30px;
+  text-decoration: wavy;
+  text-shadow: 3px;
+  font-family: cursive;
+font-size: 18px;
+font-weight: normal;
+margin-top: 30px;
+color: white;
+}
+
+
+
+
+.react-player {
+  width: fit-content;
+  height:fit-content;
+}
+.HomePage{
+  background-image: url('C:\Users\welcome\Downloads\backgroundimage.jpg');
+  background-size: cover;
+  
+}
+.front{
+text-align: left;
+margin-left:-50px;
+text-decoration: wavy;
+text-shadow: 2px;
+font-family: cursive;
+font-size: 18px;
+font-weight: normal;
+margin-top: 30px;
+color: white;
+}
+.front{
+padding-top: 300px;
+padding-left: 200px;
+font-size: 40px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.front-down{
+color:white;
+padding-left: 180px;
+text-align: left; 
+}
+.find-freelance-button{
+height: 40px;
+width:300px;
+background-color:deeppink;
+color:white;
+font-style: oblique;
+font-size: 20px;
+margin-right: 960px;
+}
+
+.bottom-padding{
+padding-bottom: 200px;
+}
+.HomePage{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
 
 }
